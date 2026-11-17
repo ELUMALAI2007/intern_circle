@@ -162,14 +162,14 @@ git commit -m "Initial commit: Elumalai M personal developer portfolio"
 git branch -M main
 
 # Link remote repository
-git remote add origin https://github.com/elumalai0083/intern_circle-all-task.git
+git remote add origin https://github.com/ELUMALAI2007/intern_circle.git
 
 # Push to GitHub
 git push -u origin main
 ```
 
 ### Step 3: Enable GitHub Pages
-1. Go to your repository on GitHub: `https://github.com/elumalai0083/intern_circle-all-task`
+1. Go to your repository on GitHub: `https://github.com/ELUMALAI2007/intern_circle`
 2. Click **Settings** (tab with the gear icon).
 3. In the left navigation menu, click **Pages** (under the "Code and automation" section).
 4. Under **Build and deployment** > **Branch**:
@@ -180,7 +180,7 @@ git push -u origin main
 ### Step 4: Access Your Live Website
 * GitHub will build and publish your site in 1 to 2 minutes.
 * Your live URL will appear at the top of the Pages settings page:  
-  `https://elumalai0083.github.io/intern_circle-all-task/`
+  `https://ELUMALAI2007.github.io/intern_circle/`
 * Test the live link in mobile and desktop browsers.
 
 ---
